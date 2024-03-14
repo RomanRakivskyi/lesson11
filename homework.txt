@@ -1,3 +1,4 @@
+------------------Послідовність виконання------------------
 Якщо не встановлений git - встановити
 Створення файлів та папок, створення .gitignore
 git --version
@@ -24,6 +25,7 @@ git commit -m "add readme"
 git push -u origin main 
 git status
 Написання тексту послідовності виконання
-git add */*
+git add homework.txt
 git commit -m "add homework.txt"
 git push -u origin main 
+-------------https://github.com/RomanRakivskyi/lesson11-------------
